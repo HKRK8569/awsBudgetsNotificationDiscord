@@ -3,4 +3,5 @@
 
 
 
-![budgetNotification drawio](https://github.com/user-attachments/assets/bcdb228c-8917-4471-94b5-313c160c8de6)
+
+![budgetNotification drawio](https://github.com/user-attachments/assets/07fb2964-94cf-4023-9516-f706f1b7252a)
