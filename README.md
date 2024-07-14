@@ -2,4 +2,5 @@
 
 
 
-![budgetNotification drawio](https://github.com/user-attachments/assets/ee1cd39c-e287-4e81-b537-d3c1da8f4570)
+
+![budgetNotification drawio](https://github.com/user-attachments/assets/bcdb228c-8917-4471-94b5-313c160c8de6)
